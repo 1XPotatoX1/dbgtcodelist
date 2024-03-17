@@ -10,5 +10,6 @@
 "GLTraining":{"BoostX3":1800},
 "250PLAYERS":{"BoostX10":1800},
 "Secret":{"BoostX3":900},
-"FollowUrFriends":{"BoostX5":1800}
+"FollowUrFriends":{"BoostX5":1800},
+"DontMindMe":{"BoostX10":900}
 }
