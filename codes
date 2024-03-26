@@ -11,5 +11,7 @@
 "250PLAYERS":{"BoostX10":1800},
 "Secret":{"BoostX3":900},
 "FollowUrFriends":{"BoostX5":1800},
-"DontMindMe":{"BoostX10":900}
+"DontMindMe":{"BoostX10":900},
+"4StarDB":{"BoostX5":3600},
+"HisLegacyContinues":{"BoostX10":1800}
 }
