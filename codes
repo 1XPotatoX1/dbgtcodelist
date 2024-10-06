@@ -1,15 +1,10 @@
 {
 "HisLegacyContinues":{"BoostX10":1800},
-"Calamity":{"BoostX2":1800},
-"28KL1K3S":{"BoostX10":900},
-"HopesAndDreams":{"BoostX2":900},
-"Psycho":{"BoostX3":900},
-"MusicGT":{"BoostX2":900},
-"ANIMOSITY":{"BoostX3":900},
 "MikuMiku":{"BoostX2":900},
 "YayCode":{"BoostX2":1800},
 "Shrine":{"BoostX3":1800},
 "randomcodefr":{"BoostX3":1800},
 "goingdown":{"BoostX2":1800},
-"sorry4boosts":{"BoostX10":900}
+"sorry4boosts":{"BoostX10":900},
+"delirious":{"BoostX3": 1800}
 }
