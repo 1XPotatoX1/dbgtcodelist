@@ -12,7 +12,8 @@
 "isolation":{"BoostX5":900},
 "LEVEL999":{"BoostX10":900},
 "EGITCWLTTNAWTITITCNNOHP":{"BoostX3":1800},
-"HappyBirthdayDaniel!":{"BoostX2":1800}
+"HappyBirthdayDaniel!":{"BoostX2":1800},
+"PrideMonth":{"BoostX3":1800}
 },
   "leaderBlacklist": {
     "496968430": "Andy",
